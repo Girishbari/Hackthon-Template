@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&family=Oswald&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+:root {
+    --font-family: 'Inter', sans-serif;
+
+    --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #55d185 102.67%);
+    --gradient-bar: linear-gradient(103.22deg, #8a94db -13.86%, #dd7a5f 99.55%);
+
+    --color-bg: #020f21;
+    --color-footer: #031B34;
+    --color-blog: #042c54;
+    --color-text: #81AFDD;
+    --color-subtext: #FF8A71;
+}
